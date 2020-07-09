@@ -8,6 +8,3 @@ for (let index = 0; index < 2; index++) {
     basic.showIcon(IconNames.Happy)
     basic.pause(500)
 }
-basic.forever(function () {
-	
-})
